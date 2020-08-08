@@ -1,3 +1,3 @@
-# Space-Invaders-Pygame-
+# Space-Invaders-Pygame
 
 pip install pygame 
